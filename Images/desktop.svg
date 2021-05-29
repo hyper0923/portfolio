@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_22" data-name="Group 22" transform="translate(-188 -255)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="80" height="80" transform="translate(188 255)" fill="#3dcfd3"/>
+    <g id="cell-phone" transform="translate(210.049 273.801)">
+      <path id="Path_12" data-name="Path 12" d="M27.337,0H9.1A3.154,3.154,0,0,0,5.951,3.157V40.181A3.152,3.152,0,0,0,9.1,43.335H27.337a3.154,3.154,0,0,0,3.154-3.154V3.157A3.156,3.156,0,0,0,27.337,0ZM13.722,1.917h9c.227,0,.412.34.412.76s-.185.761-.412.761h-9c-.229,0-.411-.341-.411-.761S13.493,1.917,13.722,1.917Zm4.5,38.3a2.013,2.013,0,1,1,2.01-2.015A2.016,2.016,0,0,1,18.223,40.219Zm9.906-6.9H8.315V5.326H28.129V33.32Z" transform="translate(0)" fill="#1d1d1d"/>
+    </g>
+  </g>
+</svg>
